@@ -1,0 +1,15 @@
+node_modules/
+venv/
+__pycache__/
+.env
+.DS_Store
+.vscode
+.ipynb_checkpoints
+.ipynb_checkpoints
+.ipynb_checkpoints
+.ipynb_checkpoints
+.ipynb_checkpoints
+bases_principales/
+bases_prueba/
+bases_secundarias/
+data_final.csv
